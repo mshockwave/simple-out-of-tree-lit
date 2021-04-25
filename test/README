@@ -1,0 +1,4 @@
+All the Markdown files (*.md) in this folder are the test cases.
+Note that the "RUN" directives in these test cases are wrapped inside Markdown's comment,
+so they will not show up in Github's web interface. You can either click the "Raw" button
+(in the web interface) to view them or simply just clone the repo.
